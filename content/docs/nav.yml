@@ -56,7 +56,7 @@
     - id: jsx-in-depth
       title: JSX を深く理解する
     - id: optimizing-performance
-      title: Optimizing Performance
+      title: パフォーマンス最適化
     - id: portals
       title: ポータル
     - id: react-without-es6
